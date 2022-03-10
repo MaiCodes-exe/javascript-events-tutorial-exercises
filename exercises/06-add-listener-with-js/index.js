@@ -4,3 +4,6 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
+document.addEventListener("click", function () {
+	alert("Woohoo!")
+});
